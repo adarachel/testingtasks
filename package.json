@@ -4,7 +4,7 @@
   "description": "Write unit tests for a JavaScript app, Use AAA pattern for unit tests, Explain why testing code is important.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
